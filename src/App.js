@@ -14,7 +14,7 @@ function App(){
     <div>
       <ChipList
       chips = {sampleChips}
-      maxChips = {3}
+      maxChips = {2}
       maxTextLength = {6}
       />
     </div>
